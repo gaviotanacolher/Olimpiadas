@@ -2,7 +2,7 @@
 
 **O que faz essa aplicação?**
 
-Imagina um site onde você digita o nome de um atleta brasileiro ou um esporte e, **puf!** surgem todas as informações que você precisa sobre ele. Essa é a mágica que acontece por trás dessa aplicação! ‍♂️
+Imagina um site onde você digita o nome de um atleta brasileiro ou um esporte e, **puf!** surgem todas as informações que você precisa sobre ele. Essa é a mágica que acontece por trás dessa aplicação!
 
 **Como ela funciona?**
 
