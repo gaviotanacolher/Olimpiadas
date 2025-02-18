@@ -40,4 +40,4 @@ Se você é um desenvolvedor curioso, fique à vontade para explorar o código! 
 
 Se você quiser ajudar a melhorar esta aplicação, fique à vontade para enviar um pull request. Todas as contribuições são bem-vindas!
 
-**Vamos juntos explorar o universo do esporte brasileiro! 🇧🇷**
+**Vamos juntos explorar o universo do esporte brasileiro!**
